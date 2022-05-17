@@ -1,0 +1,14 @@
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\TestAPP.exe
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\TestAPP.pdb
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\TestAPP.Form1.resources
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\TestAPP.Properties.Resources.resources
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\TestAPP.exe
+E:\Temp\DEMOWEB\TestAPP\obj\x86\Debug\TestAPP.pdb
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\TestAPP.exe.config
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\DBUtility.dll
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\Newtonsoft.Json.dll
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\DBUtility.pdb
+E:\Temp\DEMOWEB\TestAPP\bin\Debug\MySql.Data.dll

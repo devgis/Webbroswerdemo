@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>测试</title>
+</head>
+<body>
+	<h1>测试</h1>
+</body>
+</html>
+<script type="text/javascript">
+//senddata加入到你的代码中就可以收到数据 然后在里边
+function senddata(strdata)
+{
+	
+	//var arr = JSON.parse(strdata); //Ie引擎不支持
+	var arr= eval('(' + strdata  + ')');
+	for(var i=0;i<arr.length;i++)
+	{
+		alert("lon:"+arr[i].lon+" lat:"+arr[i].lat+" id:"+arr[i].id);		
+	}
+	
+	//循环加入点到地图就行了
+}
+</script>
+

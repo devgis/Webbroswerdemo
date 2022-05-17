@@ -1,0 +1,6 @@
+E:\Temp\DEMOWEB\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\DEMOWEB\DBUtility\bin\Debug\DBUtility.dll
+E:\Temp\DEMOWEB\DBUtility\bin\Debug\DBUtility.pdb
+E:\Temp\DEMOWEB\DBUtility\obj\Debug\DBUtility.dll
+E:\Temp\DEMOWEB\DBUtility\obj\Debug\DBUtility.pdb
+E:\Temp\DEMOWEB\DBUtility\bin\Debug\MySql.Data.dll
